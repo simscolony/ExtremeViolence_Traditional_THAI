@@ -1,0 +1,2 @@
+# ExtremeViolence_Traditional_THAI
+ExtremeViolence Transalation Thai
