@@ -6,7 +6,7 @@
 
 | SIMSCOLONY| ExtremeViolence_Traditional_THAI |
 | ------------- | ------------- |
-| ExtremeViolence v2.0.3| [ดาวโหลดแปลWickedWhims](https://github.com/simcolony/WickedWhims_Traditional_THAI/raw/master/SIMSCOLONY_WickedWhims_THV28.package) |
+| ExtremeViolence v2.0.3| [ดาวโหลดแปลExtremeViolence](https://github.com/simcolony/ExtremeViolence_Traditional_THAI/raw/master/%5BSIMSCOLONY%5DExtremeViolence_THV01.package) |
 | simfileshare ExtremeViolence v2.0.3 | [simfileshare](http://www.simfileshare.net/download/1975107/) |
 
 กรุณาติดตั้ง 4 [MOD ภาษาไทย Sims4](https://simcolony.github.io/TS4THDEMO/)
